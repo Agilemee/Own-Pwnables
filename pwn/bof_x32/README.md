@@ -9,4 +9,4 @@ def exploit():
   …
 ```
 
-and write Shellcodes in rwx segment (0x0804a000-0x0804ㅠ000), call it
+and write Shellcodes in rwx segment (0x0804a000-0x0804000), call it
