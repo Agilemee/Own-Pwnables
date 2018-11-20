@@ -32,7 +32,7 @@ def exploit():
 def main():
 	global b, l, elf, libc, p, p1r, p3r, ksigreturn, syscall
 
-	context.log_level = 'debug'
+	# context.log_level = 'debug'
 	context.arch = 'i386'
 
 	b    = './binary'

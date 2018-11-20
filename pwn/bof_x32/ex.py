@@ -13,7 +13,7 @@ def exploit():
 def main():
 	global b, l, elf, p, p1r, p3r, shellcode
 
-	context.log_level = 'debug'
+	# context.log_level = 'debug'
 
 	b   = './binary'
 	l   = './libc.so.6'
