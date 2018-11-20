@@ -26,7 +26,7 @@ def csu_init(func, arg1, arg2, arg3, returns):
 def main():
 	global b, l, elf, p, shellcode, init1, init2
 
-	context.log_level = 'debug'
+	# context.log_level = 'debug'
 	context.arch = 'amd64'
 
 	b   = './binary'
