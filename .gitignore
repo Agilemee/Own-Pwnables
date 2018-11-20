@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Debug files 2
+peda-session-*.txt
+.gdb_history
+core
