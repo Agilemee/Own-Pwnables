@@ -55,3 +55,6 @@ dkms.conf
 peda-session-*.txt
 .gdb_history
 core
+
+# hidden files
+*.hid
