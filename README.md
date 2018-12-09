@@ -7,6 +7,7 @@ Self-Solving pwnable challenges
 18.11.20 / Added x32 SROP (using pwntools Sigreturn Frame)  
 18.11.20 / Added x64 SROP (using __libc_csu_init + pwntools Sigreturn Frame)  
 18.11.22 / Added Environ Trick challenge  
+18.12.09 / Added Special Run challenge (exec command with ONLY SPECIAL CHARACTER!)  
 
 
 ## TODO
